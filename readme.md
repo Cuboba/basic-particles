@@ -1,4 +1,4 @@
-# Tribus logo rotates on scroll
+# Basic particles paralax scroll on Y Axis
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
